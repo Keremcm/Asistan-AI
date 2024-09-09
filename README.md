@@ -17,7 +17,7 @@ This project is a GPT-Turbo model AI-powered assistant API developed with Python
    Python 3.11 and necessary packages are required to run Asistan's client. You can install the required packages using the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip install requests
    ```
 2. **Python File**
 
@@ -58,7 +58,7 @@ Bu proje, Python ile geliştirilmiş bir GPT-Turbo model yapay zeka destekli asi
    Asistan'ın istemcisini çalıştırmak için Python 3.11 ve gerekli paketler gereklidir. Aşağıdaki komutu kullanarak gerekli paketleri yükleyebilirsiniz:
 
    ```bash
-   pip install -r requirements.txt
+   pip install requests
    ```
 2. **Python Dosyası**
 
